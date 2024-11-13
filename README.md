@@ -6,7 +6,7 @@
 
 ### :Software Developer/Computer Science Student: About Me :
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I am current Computer Science Student, studying in University College Cork.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I am current Computer Science Student, studying at University College Cork.
 
 - :telescope:As a computer Science Student, I have experience in programming in Python, Java, Javascript, SQL, HTML, CSS.
 
