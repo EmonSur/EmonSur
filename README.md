@@ -13,7 +13,7 @@
 - :seedling:I'm currently looking to expand my programming abilities.
 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emon-monsur-479069329/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Emon-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emon-monsur-479069329/)
 
 ---
 
