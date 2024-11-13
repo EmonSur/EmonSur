@@ -6,11 +6,11 @@
 
 ### :Software Developer/Computer Science Student: About Me :
 
-I am current Computer Science Student, studying in University College Cork<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- I am current Computer Science Student, studying in University College Cork<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-:telescope: As a computer Science Student, I have experience in programming in Python, Java, Javascript, SQL, HTML, CSS.
+- :telescope:As a computer Science Student, I have experience in programming in Python, Java, Javascript, SQL, HTML, CSS.
 
-- :seedling: I'm currently looking to expand my programming abilities.
+- :seedling:I'm currently looking to expand my programming abilities.
 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emon-monsur-479069329/)
@@ -34,6 +34,6 @@ I am current Computer Science Student, studying in University College Cork<img s
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EmonSur&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EmonSur&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmonSur)](https://github.com/anuraghazra/github-readme-stats)
