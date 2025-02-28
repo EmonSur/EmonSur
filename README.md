@@ -29,7 +29,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask"  alt="Flask" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQlite"  alt="SQLite" width="40" height="40"/>&nbsp;
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go"  alt="Go" width="40" height="40"/>&nbsp;
+</div>
 ---
 
 ### :fire: My Stats :
