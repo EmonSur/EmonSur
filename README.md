@@ -35,7 +35,7 @@
 ---
 
 ### :fire: My Stats :
-![](https://github-readme-stats.vercel.app/api?username=EmonSur&theme=dark&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=6000)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=EmonSur&theme=dark&hide_border=false&cache_seconds=6000)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmonSur&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=6000)
+![](https://github-readme-stats.vercel.app/api?username=EmonSur&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=EmonSur&theme=dark&hide_border=false)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmonSur&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
